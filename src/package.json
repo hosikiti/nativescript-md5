@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-md5",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A library for calculating MD5 hash string in 'native' way",
 	"main": "md5",
 	"typings": "index.d.ts",

@@ -4,11 +4,9 @@ A plugin for calculating MD5 hash string in "Native" way.
 
 ## Supported Platform
 
-Both iOS and Android
+Both iOS and Android.
 
 ## Installation
-
-Describe your plugin installation steps. Ideally it would be something like:
 
 ```bash
 tns plugin add nativescript-md5
