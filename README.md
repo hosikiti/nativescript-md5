@@ -1,4 +1,4 @@
-# NativeScript MD5
+# NativeScript MD5  ![apple](https://cdn3.iconfinder.com/data/icons/picons-social/57/16-apple-32.png) ![android](https://cdn4.iconfinder.com/data/icons/logos-3/228/android-32.png)
 
 A plugin for calculating MD5 hash string in "Native" way.
 
